@@ -3,7 +3,8 @@
 Zapraszamy do zgłasznia błędów, pomysłów i innych myśli związanych z [aplikacją](https://eventsapp.pl). Chcemy być aplikacją od ludzi, dla ludzi, i z takim zamysłem powstał poniższy portal.
 
 ### Jak zgłaszać błędy?
-- Zrób zrzut ekranu pokazujący jak najwięcej cennych informacji, takich jak przeglądarka czy adres URL
+- Błędy zgłaszamy w zakładce "Issues".
+- Zrób zrzut ekranu pokazujący jak najwięcej cennych informacji, takich jak przeglądarka czy adres URL.
 - Załącz informacje o systemie operacyjnym, przeglądarce internetowej, rodzaju połączenia i innych informacjach, które mogą pomóc w identyfikacji problemu.
 - Opisz dokładnie problem, oraz szczegółowo przedstaw kroki, które mogłyby doprowadzić do jego powstania.
 - Nie podawaj swoich danych do serwisu, przede wszystkim _nie podawaj_ danych dostępowych!
